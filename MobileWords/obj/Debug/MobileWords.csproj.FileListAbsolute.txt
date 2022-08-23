@@ -1,0 +1,392 @@
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\MobileWords.exe.config
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\MobileWords.exe
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\MobileWords.pdb
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\obj\Debug\MobileWords.csproj.AssemblyReference.cache
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\obj\Debug\MobileWords.frmMain.resources
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\obj\Debug\MobileWords.Properties.Resources.resources
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\obj\Debug\MobileWords.csproj.GenerateResource.cache
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\obj\Debug\MobileWords.csproj.CoreCompileInputs.cache
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\obj\Debug\MobileWords.exe
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\obj\Debug\MobileWords.pdb
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\obj\Debug\MobileWords.frmHome.resources
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\obj\Debug\MobileWords.frmLogin.resources
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\obj\Debug\MobileWords.frmAddCustomer.resources
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\obj\Debug\MobileWords.frmAddProduct.resources
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\obj\Debug\MobileWords.frmAddSupplier.resources
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\obj\Debug\MobileWords.frmAEditCategory.resources
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\obj\Debug\MobileWords.frmAEditInsurance.resources
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\obj\Debug\MobileWords.frmListInsurance.resources
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\obj\Debug\MobileWords.frmAEditOrder.resources
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\obj\Debug\MobileWords.frmListOrder.resources
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\obj\Debug\MobileWords.frmAEditRental.resources
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\obj\Debug\MobileWords.frmListRental.resources
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\obj\Debug\MobileWords.frmAEditTrademark.resources
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\obj\Debug\MobileWords.frmAEditUsers.resources
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\obj\Debug\MobileWords.frmEditCustomer.resources
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\obj\Debug\MobileWords.frmEditProduct.resources
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\obj\Debug\MobileWords.frmEditSupplier.resources
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\obj\Debug\MobileWords.frmSInventory.resources
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\EnvDTE.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\stdole.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\Microsoft.MSXML.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\obj\Debug\MobileWords.frmReport.resources
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\obj\Debug\RdlCompile.cache
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\obj\Debug\RdlCompile.compiled
+E:\2021-2022\.NET\MyProject\MobileWords\MobileWords\MobileWords\obj\Debug\MobileWords.csproj.CopyComplete
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\MobileWords.exe.config
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\MobileWords.exe
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\MobileWords.pdb
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\EnvDTE.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\stdole.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\Microsoft.MSXML.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\obj\Debug\MobileWords.csproj.AssemblyReference.cache
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\obj\Debug\MobileWords.frmAddCustomer.resources
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\obj\Debug\MobileWords.frmAddProduct.resources
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\obj\Debug\MobileWords.frmAddSupplier.resources
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\obj\Debug\MobileWords.frmAEditCategory.resources
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\obj\Debug\MobileWords.frmAEditInsurance.resources
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\obj\Debug\MobileWords.frmAEditOrder.resources
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\obj\Debug\MobileWords.frmAEditRental.resources
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\obj\Debug\MobileWords.frmAEditTrademark.resources
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\obj\Debug\MobileWords.frmAEditUsers.resources
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\obj\Debug\MobileWords.frmEditCustomer.resources
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\obj\Debug\MobileWords.frmEditProduct.resources
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\obj\Debug\MobileWords.frmEditSupplier.resources
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\obj\Debug\MobileWords.frmHome.resources
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\obj\Debug\MobileWords.frmListInsurance.resources
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\obj\Debug\MobileWords.frmListOrder.resources
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\obj\Debug\MobileWords.frmListRental.resources
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\obj\Debug\MobileWords.frmLogin.resources
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\obj\Debug\MobileWords.frmMain.resources
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\obj\Debug\MobileWords.frmReport.resources
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\obj\Debug\MobileWords.frmSInventory.resources
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\obj\Debug\MobileWords.Properties.Resources.resources
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\obj\Debug\MobileWords.csproj.GenerateResource.cache
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\obj\Debug\RdlCompile.cache
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\obj\Debug\RdlCompile.compiled
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\obj\Debug\MobileWords.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\obj\Debug\MobileWords.csproj.CopyComplete
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\obj\Debug\MobileWords.exe
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\obj\Debug\MobileWords.pdb
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\obj\Debug\MobileWords.frmSRevenue.resources
+C:\Users\LAPTOP ALPHA\Downloads\MobileWords[ZaloPC_Folder]\MobileWords\MobileWords\obj\Debug\MobileWords.frmReportRental.resources
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\obj\Debug\MobileWords.csproj.AssemblyReference.cache
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\obj\Debug\MobileWords.frmAddCustomer.resources
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\obj\Debug\MobileWords.frmAddProduct.resources
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\obj\Debug\MobileWords.frmAddSupplier.resources
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\obj\Debug\MobileWords.frmAEditCategory.resources
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\obj\Debug\MobileWords.frmAEditInsurance.resources
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\obj\Debug\MobileWords.frmAEditOrder.resources
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\obj\Debug\MobileWords.frmAEditRental.resources
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\obj\Debug\MobileWords.frmAEditTrademark.resources
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\obj\Debug\MobileWords.frmAEditUsers.resources
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\obj\Debug\MobileWords.frmEditCustomer.resources
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\obj\Debug\MobileWords.frmEditProduct.resources
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\obj\Debug\MobileWords.frmEditSupplier.resources
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\obj\Debug\MobileWords.frmHome.resources
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\obj\Debug\MobileWords.frmListInsurance.resources
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\obj\Debug\MobileWords.frmListOrder.resources
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\obj\Debug\MobileWords.frmListRental.resources
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\obj\Debug\MobileWords.frmLogin.resources
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\obj\Debug\MobileWords.frmMain.resources
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\obj\Debug\MobileWords.frmReport.resources
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\obj\Debug\MobileWords.frmSInventory.resources
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\obj\Debug\MobileWords.frmSRevenue.resources
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\obj\Debug\MobileWords.Properties.Resources.resources
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\obj\Debug\MobileWords.csproj.GenerateResource.cache
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\obj\Debug\RdlCompile.cache
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\obj\Debug\RdlCompile.compiled
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\obj\Debug\MobileWords.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\obj\Debug\MobileWords.exe
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\obj\Debug\MobileWords.pdb
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\MobileWords.exe.config
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\MobileWords.exe
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\MobileWords.pdb
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\EnvDTE.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\stdole.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\Microsoft.MSXML.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\obj\Debug\MobileWords.csproj.CopyComplete
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\obj\Debug\MobileWords.frmReportRental.resources
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\obj\Debug\MobileWords.frmReportOrder.resources
+C:\Users\LAPTOP ALPHA\OneDrive\Documents\WorkSpace\Windows Forms App\MobileWords\MobileWords\obj\Debug\MobileWords.frmReportInsurance.resources
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\MobileWords.exe.config
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\MobileWords.exe
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\MobileWords.pdb
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\EnvDTE.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\stdole.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\Microsoft.MSXML.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\WorkSpace\MobileWords\MobileWords\obj\Debug\MobileWords.csproj.AssemblyReference.cache
+E:\WorkSpace\MobileWords\MobileWords\obj\Debug\MobileWords.frmAddCustomer.resources
+E:\WorkSpace\MobileWords\MobileWords\obj\Debug\MobileWords.frmAddProduct.resources
+E:\WorkSpace\MobileWords\MobileWords\obj\Debug\MobileWords.frmAddSupplier.resources
+E:\WorkSpace\MobileWords\MobileWords\obj\Debug\MobileWords.frmAEditCategory.resources
+E:\WorkSpace\MobileWords\MobileWords\obj\Debug\MobileWords.frmAEditInsurance.resources
+E:\WorkSpace\MobileWords\MobileWords\obj\Debug\MobileWords.frmAEditOrder.resources
+E:\WorkSpace\MobileWords\MobileWords\obj\Debug\MobileWords.frmAEditRental.resources
+E:\WorkSpace\MobileWords\MobileWords\obj\Debug\MobileWords.frmAEditTrademark.resources
+E:\WorkSpace\MobileWords\MobileWords\obj\Debug\MobileWords.frmAEditUsers.resources
+E:\WorkSpace\MobileWords\MobileWords\obj\Debug\MobileWords.frmEditCustomer.resources
+E:\WorkSpace\MobileWords\MobileWords\obj\Debug\MobileWords.frmEditProduct.resources
+E:\WorkSpace\MobileWords\MobileWords\obj\Debug\MobileWords.frmEditSupplier.resources
+E:\WorkSpace\MobileWords\MobileWords\obj\Debug\MobileWords.frmHome.resources
+E:\WorkSpace\MobileWords\MobileWords\obj\Debug\MobileWords.frmListInsurance.resources
+E:\WorkSpace\MobileWords\MobileWords\obj\Debug\MobileWords.frmListOrder.resources
+E:\WorkSpace\MobileWords\MobileWords\obj\Debug\MobileWords.frmListRental.resources
+E:\WorkSpace\MobileWords\MobileWords\obj\Debug\MobileWords.frmLogin.resources
+E:\WorkSpace\MobileWords\MobileWords\obj\Debug\MobileWords.frmMain.resources
+E:\WorkSpace\MobileWords\MobileWords\obj\Debug\MobileWords.frmReport.resources
+E:\WorkSpace\MobileWords\MobileWords\obj\Debug\MobileWords.frmReportInsurance.resources
+E:\WorkSpace\MobileWords\MobileWords\obj\Debug\MobileWords.frmReportOrder.resources
+E:\WorkSpace\MobileWords\MobileWords\obj\Debug\MobileWords.frmReportRental.resources
+E:\WorkSpace\MobileWords\MobileWords\obj\Debug\MobileWords.frmSInventory.resources
+E:\WorkSpace\MobileWords\MobileWords\obj\Debug\MobileWords.frmSRevenue.resources
+E:\WorkSpace\MobileWords\MobileWords\obj\Debug\MobileWords.Properties.Resources.resources
+E:\WorkSpace\MobileWords\MobileWords\obj\Debug\MobileWords.csproj.GenerateResource.cache
+E:\WorkSpace\MobileWords\MobileWords\obj\Debug\MobileWords.csproj.CoreCompileInputs.cache
+E:\WorkSpace\MobileWords\MobileWords\obj\Debug\MobileWords.csproj.CopyComplete
+E:\WorkSpace\MobileWords\MobileWords\obj\Debug\MobileWords.exe
+E:\WorkSpace\MobileWords\MobileWords\obj\Debug\MobileWords.pdb
+E:\WorkSpace\MobileWords\MobileWords\obj\Debug\RdlCompile.cache
+E:\WorkSpace\MobileWords\MobileWords\obj\Debug\RdlCompile.compiled
